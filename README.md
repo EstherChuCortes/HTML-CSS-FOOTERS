@@ -32,7 +32,7 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 
 ### 3. "Phone 📱"
 
-![Footer Phone](/img/%20footer03.png)
+![Footer Phone](/img/footer3movil.png)
 [![Static Badge](https://img.shields.io/badge/ver%20codigo-%2337383C?style=for-the-badge)](/footer-phone/)
 
 ### 4. "Simple 🎆"
@@ -63,14 +63,10 @@ Simplemente elige el footer que más te guste, ¡y comienza a integrarlo en tus 
 
 ## Trabajo Freelance 💼
 
----
 
 Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
 <br>
 [@BarrioCort7876](https://www.twitter.com/BarrioCort7876)
 
 
-## Licencia 📜
-
-Este proyecto está bajo la licencia [MIT] 
 
